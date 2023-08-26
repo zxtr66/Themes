@@ -114,9 +114,9 @@
             "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#0a2848",
